@@ -1,5 +1,0 @@
-predictflow/__pycache__
-inference/__pycache__
-venv/
-db.sqlite3
-.gitignore
